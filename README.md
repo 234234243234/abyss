@@ -1,5 +1,7 @@
 # abyss
 abyss nuker is a discord tool made nuking, this tool was made for fun and we do not reccommend getting possibly your account disabled
+# IMPORTANT
+i know this tool is bad i didnt put enough effort into it but it is still usable with very fast speed
 # preview
 ![picture](https://i.imgur.com/DABl2Ok.png)
 # options
